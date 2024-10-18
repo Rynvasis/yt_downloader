@@ -26,6 +26,12 @@ Before running the project, ensure you have the following:
    ```bash
    sudo apt update
    sudo apt install ffmpeg
+
+2. **On MacOS**:
+   Open a terminal and run the following commands:
+   ```bash
+   brew update
+   brew install ffmpeg
    
 ## Cloning the Repository
 
